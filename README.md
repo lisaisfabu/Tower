@@ -1,2 +1,2 @@
 # Tower
-Made using Unity using the course on Udemy by Ben Tristem
+Made on Unity by using the course on Udemy by Ben Tristem
